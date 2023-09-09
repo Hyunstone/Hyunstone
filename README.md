@@ -46,8 +46,9 @@ I'm Hyunseok Lee who's majoring in Department of Software, Gachon Univ.<br><br>
 </p>
 <br><br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunstone&show_icons=true&theme=radical)<br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunstone&layout=compact"><br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunstone&show_icons=true&theme=radical)
+
 </div>
 <!--
 **Hyunstone/Hyunstone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
